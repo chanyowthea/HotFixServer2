@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 2482084012
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: bot
+      Dependencies: {}
+    Info_1:
+      Name: lua
+      Dependencies: {}
